@@ -1,4 +1,4 @@
-# GameLab5 
+# GameLab5: First 3D Game
 by Kan Udomsri 673380610-7 AI Sec.3
 
 ## SCREENSHOTS
