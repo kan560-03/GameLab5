@@ -1,5 +1,5 @@
-#GameLab5 
-by Kan Udomsri 673380610-7 Sec.3
+# GameLab5 
+by Kan Udomsri 673380610-7 AI Sec.3
 
 ## SCREENSHOTS
 ![Frame 9](https://github.com/SilverDemons-PK/3D-Platformer-Kit/assets/92097566/b52ea09b-72e7-473b-aa42-db2e7b0e9204)
